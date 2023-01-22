@@ -60,7 +60,7 @@ const AddProduct = () => {
 
   const handleImageChange = (e) => {
     const file = e.target.files[0];
-    // console.log(file);
+    
 
     const storageRef = ref(storage, `eshop/${Date.now()}${file.name}`);
     const uploadTask = uploadBytesResumable(storageRef, file);
@@ -86,7 +86,7 @@ const AddProduct = () => {
 
   const addProduct = (e) => {
     e.preventDefault();
-    // console.log(product);
+    
     setIsLoading(true);
 
     try {
@@ -183,7 +183,7 @@ const AddProduct = () => {
               {product.imageURL === "" ? null : (
                 <input
                   type="text"
-                  // required
+                  required
                   placeholder="Image URL"
                   name="imageURL"
                   value={product.imageURL}
