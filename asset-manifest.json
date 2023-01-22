@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/FULL-E-SHOP-Project1/static/css/main.84221c2c.css",
+    "main.js": "/github.io/FULL-E-SHOP-Project1/static/js/main.c9f92b89.js",
+    "static/js/787.3bed6155.chunk.js": "/github.io/FULL-E-SHOP-Project1/static/js/787.3bed6155.chunk.js",
+    "static/media/spinner.jpg": "/github.io/FULL-E-SHOP-Project1/static/media/spinner.afa973eee05e0ebff95a.jpg",
+    "static/media/register.png": "/github.io/FULL-E-SHOP-Project1/static/media/register.c63eced99fcb38972a6c.png",
+    "static/media/forgot.png": "/github.io/FULL-E-SHOP-Project1/static/media/forgot.cfba148d722f088aeddb.png",
+    "static/media/login.png": "/github.io/FULL-E-SHOP-Project1/static/media/login.78ccab5e2cbeadd1d2f2.png",
+    "static/media/loader.gif": "/github.io/FULL-E-SHOP-Project1/static/media/loader.9d11df4bdd0bb34de773.gif",
+    "index.html": "/github.io/FULL-E-SHOP-Project1/index.html",
+    "main.84221c2c.css.map": "/github.io/FULL-E-SHOP-Project1/static/css/main.84221c2c.css.map",
+    "main.c9f92b89.js.map": "/github.io/FULL-E-SHOP-Project1/static/js/main.c9f92b89.js.map",
+    "787.3bed6155.chunk.js.map": "/github.io/FULL-E-SHOP-Project1/static/js/787.3bed6155.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84221c2c.css",
+    "static/js/main.c9f92b89.js"
+  ]
+}
